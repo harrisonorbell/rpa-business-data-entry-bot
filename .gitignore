@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables and credentials
+.env
+.env.*
+
+# macOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+browser-profile/
+
+# Generated automation data
+data/processed_orders.json
+data/processing_results.csv
